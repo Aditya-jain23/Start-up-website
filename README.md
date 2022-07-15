@@ -5,4 +5,4 @@ It is a landing page which can be used by start-ups and small business owners to
 
 To download source code
 
-git clone 
+git clone https://github.com/Aditya-jain23/Start-up-website.git
